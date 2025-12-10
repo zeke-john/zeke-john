@@ -1,1 +1,1 @@
-https://zekejohn.dev/
+zekejohn.dev
