@@ -1,2 +1,1 @@
-[zekejohn.dev
-](https://zekejohn.dev/)
+[zekejohn.dev](https://zekejohn.dev)
