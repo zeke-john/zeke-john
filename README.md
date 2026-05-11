@@ -1,1 +1,1 @@
-[zeke.computer](https://zeke.computer)
+www.zeke.computer
